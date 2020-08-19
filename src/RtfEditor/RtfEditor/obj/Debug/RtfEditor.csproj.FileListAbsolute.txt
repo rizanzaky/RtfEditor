@@ -1,0 +1,6 @@
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/RtfEditor/bin/Debug/RtfEditor.dll
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/RtfEditor/bin/Debug/RtfEditor.pdb
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/RtfEditor/obj/Debug/RtfEditor.csprojAssemblyReference.cache
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/RtfEditor/obj/Debug/RtfEditor.csproj.CoreCompileInputs.cache
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/RtfEditor/obj/Debug/RtfEditor.dll
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/RtfEditor/obj/Debug/RtfEditor.pdb

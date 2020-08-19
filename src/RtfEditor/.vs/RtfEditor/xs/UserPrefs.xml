@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{671C32A0-A671-408B-86C8-5FE9B70AD154}|Default">
+  <MonoDevelop.Ide.ItemProperties.RtfEditor.Droid FirstBuild="True" PreferredExecutionTarget="Android.Pixel_2_Pie_9.0_-_API_28" />
+  <MonoDevelop.Ide.ItemProperties.RtfEditor.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.cbb02eb720a8153e60a573b5ba9d22d0e3a18b6e">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.RtfEditor.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Pages/HomeView.cs">
+    <Files>
+      <File FileName="iOS/AppDelegate.cs" Line="31" Column="52" />
+      <File FileName="iOS/Pages/HomeController.cs" Line="18" Column="34" />
+      <File FileName="iOS/Pages/HomeView.cs" Line="6" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RtfEditor" expanded="True">
+            <Node name="RtfEditor" expanded="True" />
+            <Node name="RtfEditor.Droid" expanded="True" />
+            <Node name="RtfEditor.iOS" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="HomeView.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

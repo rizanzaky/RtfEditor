@@ -1,0 +1,15 @@
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/bin/iPhone/Debug/RtfEditor.iOS.exe
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/bin/iPhone/Debug/RtfEditor.iOS.pdb
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/bin/iPhone/Debug/RtfEditor.dll
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/bin/iPhone/Debug/RtfEditor.pdb
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/device-builds/iphone9.4-13.6/ibtool/_BundleResourceWithLogicalName.items
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/device-builds/iphone9.4-13.6/actool/_PartialAppManifest.items
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/device-builds/iphone9.4-13.6/actool/_BundleResourceWithLogicalName.items
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/device-builds/iphone9.4-13.6/coremlc/_PartialAppManifest.items
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/device-builds/iphone9.4-13.6/coremlc/_BundleResourceWithLogicalName.items
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/device-builds/iphone9.4-13.6/optimized/
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/RtfEditor.iOS.csprojAssemblyReference.cache
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/RtfEditor.iOS.csproj.CoreCompileInputs.cache
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/RtfEditor.iOS.csproj.CopyComplete
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/RtfEditor.iOS.exe
+/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/RtfEditor.iOS.pdb

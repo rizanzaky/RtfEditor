@@ -1,0 +1,15 @@
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/device-builds/iphone9.4-13.6/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/device-builds/iphone9.4-13.6/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/device-builds/iphone9.4-13.6/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/device-builds/iphone9.4-13.6/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/device-builds/iphone9.4-13.6/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/device-builds/iphone9.4-13.6/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Volumes/SharedDrive/rizan/My Work/Libraries/RtfEditor/src/RtfEditor/iOS/obj/iPhone/Debug/device-builds/iphone9.4-13.6/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip
